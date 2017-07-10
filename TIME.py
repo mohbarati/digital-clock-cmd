@@ -27,12 +27,3 @@ except KeyboardInterrupt:                           # Ends the program is you pr
     pass
 finally:
     print ('(_______ HAVE A NICE TIME! :-) _______)')
-
-'''
-But if you wanna go one step further, you can write a batch script to run this code whenever and wherever you like with just a double click. this is my batch file for the task:(copy and past these two lines into a notepad file and then save and change the name of the file to somename.cmd)
-
-MODE 25,7
-call python "C:\\GIT\\TIME.py (change it with your own python file address)"
-
-click on it and enjoy!
-'''
